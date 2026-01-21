@@ -1,0 +1,107 @@
+.weblogo {
+    width: 65px;
+}
+
+.navbar {
+    background: #00000082 !important;
+}
+
+.navbar ul li {
+    padding: 0 10px;
+}
+
+.navbar ul li a {
+    color: white;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.img123 {
+    width: 80%;
+}
+
+.y{
+    background-image: url(https://pn-paul.netlify.app/image/new-our-team.jpg);
+    width: 100%;
+    height: 650px;
+    background-position: center;
+    background-size: cover;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10cm;
+    font-family: prague;
+}
+
+.b{
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: justify;
+}
+
+.photo1{
+    background-image: url(https://pn-paul.netlify.app/image/YPAshok.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+
+.photo2 {
+    background-image: url(https://pn-paul.netlify.app/image/B.R.-Sachdeva.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+
+.photo3 {
+    background-image: url(https://pn-paul.netlify.app/image/Sagar-Bajaj.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+
+.photo4 {
+    background-image: url(https://pn-paul.netlify.app/image/JAY-PHOTO-1-1.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+
+.photo5 {
+    background-image: url(https://pn-paul.netlify.app/image/vibhutiPR.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+
+footer {
+    background-color: #111215;
+}
+
+footer img {
+    width: 200px;
+    margin-top: 100px;
+}
+
+footer .i {
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+    color: white;
+}
+
+footer .g {
+    line-height: 30px;
+    word-spacing: 1px;
+    font-size: 18px;
+    color: aliceblue;
+}

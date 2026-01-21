@@ -1,0 +1,125 @@
+.weblogo {
+    width: 65px;
+}
+
+.navbar {
+    background: #00000082 !important;
+    width: 100%;
+}
+
+.navbar ul li {
+    padding: 0 10px;
+}
+
+.navbar ul li a {
+    color: white;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.a {
+    text-align: center;
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+
+.b {
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: center;
+}
+
+.img123 {
+    width: 80%;
+}
+
+@media(max-width:768px) {
+    .img123 {
+        width: 100%;
+        margin-top: 20px;
+    }
+}
+
+.y{
+    background-image: url(https://pn-paul.netlify.app/image/ourimage.jpg);
+    width: 100%;
+    height: 650px;
+    background-position: center;
+    background-size: cover;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10cm;
+    font-family: prague;
+}
+.c {
+    background: url(https://pn-paul.netlify.app/image/gamebanner.jpg);
+    width: 100%;
+    height: 500px;
+    margin-top: 40px;
+    padding-top: 130px;
+    
+}
+
+.d {
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+}
+
+.e {
+    line-height: 40px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.f{
+    line-height: 40px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    margin-top: 20px;
+    font-weight: lighter;
+    padding-bottom: 2cm;
+}
+
+.h{
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: justify;
+}
+
+footer {
+    background-color: #111215;
+}
+
+footer img {
+    width: 200px;
+    margin-top: 100px;
+}
+
+footer .i {
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+    color: white;
+}
+
+footer .g {
+    line-height: 30px;
+    word-spacing: 1px;
+    font-size: 18px;
+    color: aliceblue;
+}
